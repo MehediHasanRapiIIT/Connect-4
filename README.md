@@ -22,11 +22,10 @@ https://images.app.goo.gl/NNJPvth8huqJMxcXA
 Run the .jar file that is given in my project.
     
 ## Screenshots
+![](https://github.com/MehediHasanRapiIIT/Connect-4/assets/114318134/fe533fef-3467-4ed6-bb5e-980570e25322)
 
-![App Interface](https://drive.google.com/file/d/1f9U75s3ukLws2pfNcwnxqq_vNRbbxwWC/view?usp=sharing)
+![](https://github.com/MehediHasanRapiIIT/Connect-4/assets/114318134/6689b51d-0e8a-4710-b8a6-cfbb314591dd)
 
-![App Interface](https://drive.google.com/file/d/1spi6NWwtdTP1KOuU85OMVQFJ9Oveo97G/view?usp=sharing)
-
-![App Interface](https://drive.google.com/file/d/1r438HYvURGL-zcTblhYRiZBkULPwqBFI/view?usp=sharing)
+![](https://github.com/MehediHasanRapiIIT/Connect-4/assets/114318134/b4612b43-82d3-49ad-ae4e-81f8a524c801)
 
 
